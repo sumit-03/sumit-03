@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumit-03
-- 👀 I’m interested in Web App Development and have skills in HTML, CSS, Js, Jquery, Node.js, Express.js
-- 🌱 I’m currently learning React.js for frontend
-- 💞️ I’m looking to collaborate on web development related projects
+- 👀 I’m interested in Designing System.
+- 🌱 I’m actively working, with tech skills Golang, API design, RPC framework, Kafka.
+- 💞️ I’m looking to collaborate on backend related projects
 - 📫 My email id: sk69@iitbbs.ac.in
 
 <!---
